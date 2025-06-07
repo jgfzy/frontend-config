@@ -1,5 +1,5 @@
 {
-  "name": "front-end-normalization",
+  "name": "@jgfzy/frontend-config",
   "version": "1.0.0",
   "description": "This is a front-end normalization configuration package that helps refine configurations quickly, but can't be used in extensions",
   "main": "index.js",
@@ -11,15 +11,15 @@
     "lint:stylelint": "stylelint --fix"
   },
   "keywords": [
-    "eslint",
-    "prettier",
-    "stylelint",
-    "sass",
-    "vue",
-    "typescript",
-    "vscode"
+    "eslint-config",
+    "prettier-config",
+    "stylelint-config",
+    "sass-config",
+    "vue-config",
+    "typescript-config",
+    "vscode-config"
   ],
-  "author": "jgfzy",
+  "author": "jgfzy (https://github.com/jgfzy)",
   "license": "MIT",
   "packageManager": "pnpm@10.11.0",
   "devDependencies": {
