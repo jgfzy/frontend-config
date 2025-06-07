@@ -1,0 +1,25 @@
+# 忽略构建输出目录
+/dist
+/build
+/out
+
+# 忽略依赖目录
+/node_modules
+/bower_components
+
+# 忽略编译缓存和日志
+/.cache
+/logs
+/tmp
+
+# 忽略 Git 和其他配置目录
+/.git
+/.svn
+/.hg
+/.idea
+
+# 忽略环境变量文件
+.env
+.env.local
+.env.development
+.env.production
