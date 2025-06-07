@@ -21,6 +21,9 @@
   ],
   "author": "jgfzy (https://github.com/jgfzy)",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "packageManager": "pnpm@10.11.0",
   "devDependencies": {
     "@eslint/js": "^9.28.0",
