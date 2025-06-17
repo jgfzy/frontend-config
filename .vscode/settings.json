@@ -1,5 +1,5 @@
 {
-  "accessibility.underlineLinks": true,
+   "accessibility.underlineLinks": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.autoClosingBrackets": "beforeWhitespace",
@@ -22,8 +22,7 @@
   "editor.linkedEditing": true,
   "editor.mouseWheelZoom": true,
   "editor.smoothScrolling": true,
-  "editor.suggest.localityBonus": true,
-  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -40,6 +39,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "npm.packageManager": "pnpm",
   "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.fontSize": 20,
   "terminal.integrated.mouseWheelZoom": true,
@@ -48,6 +48,7 @@
   "typescript.preferences.includePackageJsonAutoImports": "on",
   "typescript.preferences.preferTypeOnlyAutoImports": true,
   "typescript.suggest.completeFunctionCalls": true,
+  "window.commandCenter": false,
   "window.dialogStyle": "custom",
   "workbench.list.smoothScrolling": true,
   "workbench.tree.indent": 16,
@@ -58,7 +59,6 @@
   "editor.fontFamily": "JetBrains Mono NL,'HarmonyOS Sans SC'",
   "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.iconTheme": "vscode-icons",
-  "window.commandCenter": false,
   // -----------------------------------------------------------------------
   // 分割线以上为个人基本vscode配置
   "editor.codeActionsOnSave": {

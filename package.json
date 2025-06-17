@@ -1,6 +1,6 @@
 {
   "name": "@jgfzy/frontend-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a front-end normalization configuration package that helps refine configurations quickly, but can't be used in extensions",
   "main": "index.js",
   "scripts": {
@@ -25,20 +25,5 @@
     "access": "public"
   },
   "packageManager": "pnpm@10.11.0",
-  "devDependencies": {
-    "@eslint/js": "^9.28.0",
-    "eslint": "^9.28.0",
-    "eslint-config-prettier": "^10.1.5",
-    "eslint-plugin-vue": "^10.2.0",
-    "globals": "^16.2.0",
-    "postcss-html": "^1.8.0",
-    "prettier": "^3.5.3",
-    "sass": "^1.89.1",
-    "stylelint": "^16.20.0",
-    "stylelint-config-clean-order": "^7.0.0",
-    "stylelint-config-standard": "^38.0.0",
-    "stylelint-config-standard-scss": "^15.0.1",
-    "stylelint-config-standard-vue": "^1.0.0",
-    "typescript-eslint": "^8.33.1"
-  }
+  "devDependencies": {}
 }
